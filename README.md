@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @McIntyre-Colin
 - 👀 I’m interested in software engineering, AI, and machine learning!
 - 🌱 I’m currently expanding my knowlegde on React.js and frontend development
-- 📫 How to reach me! Please Reach Out!
+- 📫 How to reach me! Don't hesitate to connect!
 - LinkedIn: https://www.linkedin.com/in/mcintyre-colin/
 
 <!---
